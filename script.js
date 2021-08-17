@@ -35,12 +35,7 @@ function calcularImc() {
             }
         }
     }
-
-    
-    
 }
-
-
 
 // Adicionando um evento ao botão
 btnCalcular.addEventListener("click", calcularImc)
